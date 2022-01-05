@@ -333,4 +333,5 @@ The main result evaluated on coco test_dev with 2x training scheme.
   author={Hao, Shuaizheng and Liu, Hongzhe and Wang, Ningwei and Xu, Cheng},
   journal={arXiv preprint arXiv:2112.08902},
   year={2021}
+}
 </code></pre></div>
