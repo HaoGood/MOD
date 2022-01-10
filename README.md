@@ -204,7 +204,7 @@ The main result evaluated on coco test_dev with 2x training scheme.
   mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><a
-  href="https://drive.google.com/file/d/1mDkFQvD1mjPunRRpDuod_Db6Cr7GXedb/view?usp=sharing"><span
+  href="https://drive.google.com/file/d/1pFuby03mUxJAg0UkghgXcT4MVmIysnUD/view?usp=sharing"><span
   class=SpellE>model_final.pth</span></a></p>
   </td>
  </tr>
