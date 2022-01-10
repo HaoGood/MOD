@@ -96,7 +96,7 @@ The main result evaluated on coco test_dev with 2x training scheme.
   line-height:normal'>File</p>
   </td>
  </tr>
-  <tr style='mso-yfti-irow:1'>
+ <tr style='mso-yfti-irow:1'>
   <td width=124 valign=top style='width:93.15pt;border-top:none;border-left:
   solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
