@@ -208,7 +208,6 @@ The main result evaluated on coco test_dev with 2x training scheme.
   class=SpellE>model_final.pth</span></a></p>
   </td>
  </tr>
- </tr>
  <tr style='mso-yfti-irow:1'>
   <td width=124 valign=top style='width:93.15pt;border-top:none;border-left:
   solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
