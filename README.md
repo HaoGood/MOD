@@ -150,123 +150,113 @@ The main result evaluated on coco test_dev with 2x training scheme.
   mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><a
-  href=" <tr style='mso-yfti-irow:1'>
-  <td width=124 valign=top style='width:93.15pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>R101</p>
-  </td>
-  <td width=68 valign=top style='width:51.25pt;border:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>Y</p>
-  </td>
-  <td width=65 valign=top style='width:48.75pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>46.3</p>
-  </td>
-  <td width=47 valign=top style='width:35.6pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>64.3</p>
-  </td>
-  <td width=47 valign=top style='width:35.6pt;border:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>50.3</p>
-  </td>
-  <td width=45 valign=top style='width:33.95pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>27.9</p>
-  </td>
-  <td width=49 valign=top style='width:36.45pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>50.2</p>
-  </td>
-  <td width=47 valign=top style='width:35.15pt;border:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>57.9</p>
-  </td>
-  <td width=45 valign=top style='width:34.1pt;border:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><a
-  href="https://drive.google.com/file/d/1pFuby03mUxJAg0UkghgXcT4MVmIysnUD/view?usp=sharing"><span
-  class=SpellE>model_final.pth</span></a></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=124 valign=top style='width:93.15pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>R101</p>
-  </td>
-  <td width=68 valign=top style='width:51.25pt;border:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>Y</p>
-  </td>
-  <td width=65 valign=top style='width:48.75pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>46.3</p>
-  </td>
-  <td width=47 valign=top style='width:35.6pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>64.3</p>
-  </td>
-  <td width=47 valign=top style='width:35.6pt;border:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>50.3</p>
-  </td>
-  <td width=45 valign=top style='width:33.95pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>27.9</p>
-  </td>
-  <td width=49 valign=top style='width:36.45pt;border:none;mso-border-top-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>50.2</p>
-  </td>
-  <td width=47 valign=top style='width:35.15pt;border:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'>57.9</p>
-  </td>
-  <td width=45 valign=top style='width:34.1pt;border:none;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><a
-  href="https://drive.google.com/file/d/1pFuby03mUxJAg0UkghgXcT4MVmIysnUD/view?usp=sharing"><span
-  class=SpellE>model_final.pth</span></a></p>
+  href="https://drive.google.com/file/d/1mDkFQvD1mjPunRRpDuod_Db6Cr7GXedb/view?usp=sharing"><span
+  class=SpellE>model.pth</span></a></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
+  <td width=124 valign=top style='width:93.15pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>R50_dcn</p>
+  </td>
+  <td width=68 valign=top style='width:51.25pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>Y</p>
+  </td>
+  <td width=65 valign=top style='width:48.75pt;border:none;mso-border-left-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>44.9</p>
+  </td>
+  <td width=47 valign=top style='width:35.6pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>62.7</p>
+  </td>
+  <td width=47 valign=top style='width:35.6pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>48.8</p>
+  </td>
+  <td width=45 valign=top style='width:33.95pt;border:none;mso-border-left-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>25.9</p>
+  </td>
+  <td width=49 valign=top style='width:36.45pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>48.6</p>
+  </td>
+  <td width=47 valign=top style='width:35.15pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>57.7</p>
+  </td>
+  <td width=45 valign=top style='width:34.1pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><a
+  href="https://drive.google.com/file/d/1QM0VdZ12jw_Jfdgof0COzXwWKnc9Djai/view?usp=sharing"><span
+  class=SpellE>model.pth</span></a></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=124 valign=top style='width:93.15pt;border-top:none;border-left:
+  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>R101</p>
+  </td>
+  <td width=68 valign=top style='width:51.25pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>Y</p>
+  </td>
+  <td width=65 valign=top style='width:48.75pt;border:none;mso-border-left-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>46.3</p>
+  </td>
+  <td width=47 valign=top style='width:35.6pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>64.3</p>
+  </td>
+  <td width=47 valign=top style='width:35.6pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>50.3</p>
+  </td>
+  <td width=45 valign=top style='width:33.95pt;border:none;mso-border-left-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>27.9</p>
+  </td>
+  <td width=49 valign=top style='width:36.45pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>50.2</p>
+  </td>
+  <td width=47 valign=top style='width:35.15pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'>57.9</p>
+  </td>
+  <td width=45 valign=top style='width:34.1pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><a
+  href="https://drive.google.com/file/d/1pFuby03mUxJAg0UkghgXcT4MVmIysnUD/view?usp=sharing"><span
+  class=SpellE>model.pth</span></a></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
   <td width=124 valign=top style='width:93.15pt;border-top:none;border-left:
   solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
@@ -314,10 +304,10 @@ The main result evaluated on coco test_dev with 2x training scheme.
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><a
   href="https://drive.google.com/file/d/1y7FcWvMIPgIPJMtr0h2hV2eLCkp0VSHc/view?usp=sharing"><span
-  class=SpellE>model_final.pth</span></a></p>
+  class=SpellE>model.pth</span></a></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:3'>
+ <tr style='mso-yfti-irow:5'>
   <td width=124 valign=top style='width:93.15pt;border-top:none;border-left:
   solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
@@ -365,10 +355,10 @@ The main result evaluated on coco test_dev with 2x training scheme.
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><a
   href="https://drive.google.com/file/d/1XP3QSJlWZgePAtfB059_Q6_tl0euXJzx/view?usp=sharing"><span
-  class=SpellE>model_final.pth</span></a></p>
+  class=SpellE>model.pth</span></a></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>
+ <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes'>
   <td width=124 valign=top style='width:93.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
@@ -428,7 +418,7 @@ The main result evaluated on coco test_dev with 2x training scheme.
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
   line-height:normal'><a
   href="https://drive.google.com/file/d/1OH7-sT-pFekUiF-r1cewNr19C3pv17Ft/view?usp=sharing"><span
-  class=SpellE>model_final.pth</span></a></p>
+  class=SpellE>model.pth</span></a></p>
   </td>
  </tr>
 </table>
